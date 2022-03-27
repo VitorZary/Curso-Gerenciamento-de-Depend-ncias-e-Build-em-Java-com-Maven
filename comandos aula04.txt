@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=project-aula04 -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
