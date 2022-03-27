@@ -1,0 +1,8 @@
+mvn compile: todos os codigos java sao compilados e inseridos na pasta target
+
+mvn test: localiza as classes de testes e as executa 
+
+mvn package: criar um .jar para a aplicacao
+
+mvn clean: apaga o diretorio de trabalho (pasta target)
+
