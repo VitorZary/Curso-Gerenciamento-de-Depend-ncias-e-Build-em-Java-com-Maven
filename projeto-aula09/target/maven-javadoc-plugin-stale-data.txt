@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projeto-aula09 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'projeto-aula09 1.0-SNAPSHOT API'
+one.digitalinnovation
+'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/src/main/java/one/digitalinnovation/App.java'
+'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/src/main/java/one/digitalinnovation/StatusUser.java'
+'C:/Users/hugoz/Desktop/facu/Cursos por fora/Curso Maven/projetos/projeto-aula09/src/main/java/one/digitalinnovation/User.java'
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\src\main\java = 1648738211403
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\allclasses-index.html = 1648739216445
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\allclasses.html = 1648739216506
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\allpackages-index.html = 1648739216479
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\constant-values.html = 1648739216183
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\deprecated-list.html = 1648739216490
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\element-list = 1648739216109
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\help-doc.html = 1648739216521
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\index-all.html = 1648739216390
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\index.html = 1648739216512
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\member-search-index.js = 1648739216381
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\member-search-index.zip = 1648739216386
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\overview-tree.html = 1648739216316
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\package-search-index.js = 1648739216340
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\package-search-index.zip = 1648739216363
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\script.js = 1648739216530
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\search.js = 1648739216554
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\stylesheet.css = 1648739216526
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\type-search-index.js = 1648739216371
+C:\Users\hugoz\Desktop\facu\Cursos por fora\Curso Maven\projetos\projeto-aula09\target\site\apidocs\type-search-index.zip = 1648739216379
