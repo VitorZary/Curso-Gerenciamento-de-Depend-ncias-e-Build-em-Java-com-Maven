@@ -1,0 +1,8 @@
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=project01-aula05 -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=project02-aula05 -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
+gerando os projetos
+
+
+mvn install
+publicar seu projeto para uso no seu repositorio local maven
